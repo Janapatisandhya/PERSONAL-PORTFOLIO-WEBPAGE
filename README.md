@@ -29,3 +29,7 @@ Finally, the footer contains a copyright notice with the developer’s name and 
 The design of the website is minimalistic and user-friendly. CSS is used to apply consistent styling across all sections, ensuring readability and a pleasant visual layout. The site is also responsive, meaning it adapts well to different screen sizes, including phones and tablets.
 
 In conclusion, this portfolio website effectively demonstrates the developer’s technical ability, creativity, and understanding of frontend development principles. It is a foundational step in building an online presence and can be expanded in the future with more features such as a blog, downloadable resume, or project gallery. This project shows that even with basic tools, one can create a polished and functonal website.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0eefc987-ee6d-41ae-9008-fe8582f619ec)
